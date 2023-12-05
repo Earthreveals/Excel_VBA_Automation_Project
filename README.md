@@ -7,4 +7,5 @@ This module 2 repository is for Nick Nath. This repository contains script that 
 Conditional formatting is applied to yearly change and percent change column (positive numbers in green and negative in red) using the VBA Script
 VBA script is also used to calculate the Greatest Percent Increase, Greatest Percent Decrease and Greatest Total Volume
 The VBA script has been ran on all three sheets with attached screenshot and script report
+This was done in help with the study group and tutoring sessions. 
 
